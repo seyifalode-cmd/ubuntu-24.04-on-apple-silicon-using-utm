@@ -1,4 +1,6 @@
-# 🧠 Ubuntu 24.04 LTS on Apple Silicon (M1 / M2 / M3) using UTM
+# Ubuntu 24.04 LTS on Apple Silicon (M1 / M2 / M3) using UTM
+
+Oluwaseyi Michael Falode | Cloud & Cybersecurity | Toronto, ON
 
 A self-directed **CloudOps & Cybersecurity** project demonstrating how to virtualize and configure **Ubuntu 24.04 LTS (ARM Architecture)** on Apple Silicon Macs using **UTM**, a lightweight virtualization tool for macOS.  
 
